@@ -2,17 +2,22 @@
   "name": "react-hooks-mock-code-challenge-plantshop",
   "version": "0.1.0",
   "private": true,
-
   "scripts": {
     "dev": "vite",
     "server": "json-server db.json -p 6001",
     "test": "vitest",
     "build": "vite build"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@vitejs/plugin-react": "^6.0.2",
+    "jsdom": "^29.1.1",
+    "vitest": "^4.1.6"
   }
 }

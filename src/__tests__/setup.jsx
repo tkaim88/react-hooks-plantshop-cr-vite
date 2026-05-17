@@ -1,9 +1,12 @@
-import { afterEach } from 'vitest'
+import { afterEach, vi } from 'vitest'
 import { cleanup } from '@testing-library/react'
 import '@testing-library/jest-dom/vitest'
-import fetch from 'node-fetch';
 
-global.fetch = fetch
+global.fetch = vi.fn()
+
+afterEach(() => {
+  cleanup()
+})
 
 global.basePlants = [
     {
