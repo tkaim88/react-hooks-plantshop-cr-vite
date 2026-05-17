@@ -103,7 +103,7 @@ This project was built using React Hooks and JSON Server as part of a React code
 
 Add a screenshot of the completed application below:
 
-![Plantsy Screenshot](./README-assets/plantshop-homepage.png)
+![Plantsy Screenshot](./README-assets/Plantshop-homepage.png)
 
 ---
 
