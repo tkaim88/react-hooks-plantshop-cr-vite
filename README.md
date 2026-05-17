@@ -195,17 +195,3 @@ Connect to a real backend database
 Author
 
 Thomas Buko
-Fetch requests
-Working with APIs
-Future Improvements
-
-Possible improvements for future versions:
-
-Add delete functionality
-Add edit functionality
-Add plant categories
-Add user authentication
-Connect to a real backend database
-Author
-
-Thomas Buko
