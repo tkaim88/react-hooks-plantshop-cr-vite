@@ -194,4 +194,4 @@ Add user authentication
 Connect to a real backend database
 Author
 
-Thomas Buko
+Thomas Komora Buko
